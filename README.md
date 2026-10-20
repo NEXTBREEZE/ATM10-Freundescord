@@ -189,11 +189,9 @@ möglicherweise nicht vollständig kompatibel sein.
 ## 🔗 Links
 
 -   **Modpack-Download:** [Google Drive -- ATM10 --
-    FREUNDESCORD](https://drive.google.com/file/d/1MsmILQTGb-HtgIqOAQKhj1j4V66O_MsC/view?usp=sharing)
+    FREUNDESCORD](https://drive.google.com/file/d/1Qv4TKPJM3MqdwvAIWguklAxohV_Jh5hC/view?usp=sharing)
 -   **CurseForge-App:**
     [curseforge.com/download/app](https://www.curseforge.com/download/app)
--   **Offizielles ATM10-Modpack:** [All the Mods 10 auf
-    CurseForge](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10)
 -   **NeoForge:** [neoforged.net](https://neoforged.net/)
 
 ------------------------------------------------------------------------
