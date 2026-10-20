@@ -1,13 +1,13 @@
-::: {align="center"}
 # ⛏️ ATM10 -- FREUNDESCORD
 
-### Dein All the Mods 10-Erlebnis -- angepasst für den Freundescord
+**Dein All the Mods 10-Erlebnis -- angepasst für den Freundescord**
 
-**Herunterladen · Importieren · Mitspielen**
+Herunterladen · Importieren · Mitspielen
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Modloader](https://img.shields.io/badge/Modloader-NeoForge-orange?style=for-the-badge)](https://neoforged.net/)
-[![Launcher](https://img.shields.io/badge/Launcher-CurseForge-6441A5?style=for-the-badge)](https://www.curseforge.com/download/app)
+![Minecraft
+1.21.1](https://img.shields.io/badge/Minecraft-1.21.1-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
+![NeoForge](https://img.shields.io/badge/Modloader-NeoForge-orange?style=for-the-badge)
+![CurseForge](https://img.shields.io/badge/Launcher-CurseForge-6441A5?style=for-the-badge&logo=curseforge&logoColor=white)
 
 ------------------------------------------------------------------------
 
@@ -21,18 +21,16 @@ Anpassungen.
 Hier findest du den Download, die Installationsanleitung für CurseForge
 und die Adresse unseres Minecraft-Servers.
 
-## 📥 Download
+## 📥 Modpack herunterladen
 
-::: {align="center"}
 ### [⬇️ ATM10 -- FREUNDESCORD herunterladen](https://drive.google.com/file/d/1MsmILQTGb-HtgIqOAQKhj1j4V66O_MsC/view?usp=sharing)
-:::
 
 Lade die ZIP-Datei über Google Drive herunter. **Entpacke sie nicht.**
 Die heruntergeladene Modpack-ZIP wird direkt in CurseForge importiert.
 
 > **Hinweis:** Falls Google Drive eine Vorschau anzeigt, klicke dort auf
-> das Download-Symbol. Falls du keinen Zugriff hast, prüfe, ob die Datei
-> für Personen mit dem Link freigegeben ist.
+> das Download-Symbol. Falls du keinen Zugriff hast, muss die Datei in
+> Google Drive für Personen mit dem Link freigegeben sein.
 
 ## 🎮 Minecraft-Server
 
@@ -43,16 +41,16 @@ Die heruntergeladene Modpack-ZIP wird direkt in CurseForge importiert.
   **Minecraft-Version**   1.21.1
   **Modloader**           NeoForge
 
-**Wichtig:** Verwende zum Spielen dieselbe Modpack-Zusammenstellung wie
-der Server. Abweichende Mod-Versionen oder zusätzliche Mods können
-Verbindungsprobleme verursachen.
+> **Wichtig:** Verwende zum Spielen dieselbe Modpack-Zusammenstellung
+> wie der Server. Abweichende Mod-Versionen oder zusätzliche Mods können
+> Verbindungsprobleme verursachen.
 
 ## 🧭 Installation über CurseForge
 
 ### Voraussetzungen
 
--   [CurseForge-App](https://www.curseforge.com/download/app)
-    installiert
+-   [CurseForge-App
+    herunterladen](https://www.curseforge.com/download/app)
 -   Minecraft Java Edition
 -   Die Modpack-ZIP aus dem Google-Drive-Link oben
 -   Genügend freier Speicherplatz für Modpack und Spieldateien
@@ -75,8 +73,7 @@ Verbindungsprobleme verursachen.
 
 ### Schritt 3 -- ZIP-Datei auswählen
 
-1.  Im Fenster **Import Profile** wählst du links **Import Profile
-    .zip**.
+1.  Wähle im Fenster **Import Profile** links **Import Profile .zip**.
 2.  Klicke auf **Choose .zip file**.
 3.  Öffne den Ordner, in dem du die ZIP-Datei gespeichert hast.
 4.  Wähle die Modpack-ZIP aus und bestätige.
@@ -201,8 +198,6 @@ möglicherweise nicht vollständig kompatibel sein.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Viel Spaß mit ATM10 -- FREUNDESCORD!** ⛏️
 
 *Zusammengestellt für den Freundescord von NEXT BREEZE.*
-:::
