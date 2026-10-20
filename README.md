@@ -8,7 +8,6 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Modloader](https://img.shields.io/badge/Modloader-NeoForge-orange?style=for-the-badge)](https://neoforged.net/)
 [![Launcher](https://img.shields.io/badge/Launcher-CurseForge-6441A5?style=for-the-badge)](https://www.curseforge.com/download/app)
-:::
 
 ------------------------------------------------------------------------
 
