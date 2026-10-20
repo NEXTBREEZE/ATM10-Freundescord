@@ -23,7 +23,7 @@ und die Adresse unseres Minecraft-Servers.
 
 ## 📥 Modpack herunterladen
 
-### [⬇️ ATM10 -- FREUNDESCORD herunterladen](https://drive.google.com/file/d/1MsmILQTGb-HtgIqOAQKhj1j4V66O_MsC/view?usp=sharing)
+### [⬇️ ATM10 -- FREUNDESCORD herunterladen](https://drive.google.com/file/d/1Qv4TKPJM3MqdwvAIWguklAxohV_Jh5hC/view?usp=sharing)
 
 Lade die ZIP-Datei über Google Drive herunter. **Entpacke sie nicht.**
 Die heruntergeladene Modpack-ZIP wird direkt in CurseForge importiert.
