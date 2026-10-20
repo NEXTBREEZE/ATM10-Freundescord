@@ -58,7 +58,7 @@ Die heruntergeladene Modpack-ZIP wird direkt in CurseForge importiert.
 ### Schritt 1 -- Modpack herunterladen
 
 1.  Öffne den [Modpack-Download auf Google
-    Drive](https://drive.google.com/file/d/1MsmILQTGb-HtgIqOAQKhj1j4V66O_MsC/view?usp=sharing).
+    Drive](https://drive.google.com/file/d/1Qv4TKPJM3MqdwvAIWguklAxohV_Jh5hC/view?usp=sharing).
 2.  Lade die ZIP-Datei auf deinen Computer herunter.
 3.  Merke dir den Speicherort, zum Beispiel den Ordner **Downloads**.
 
